@@ -33,3 +33,13 @@
 **Today's Progress** : Searching for ingerdients of product dataset. No coding day.
 
 **Thoughts** : Still didn't find the what data I need.
+
+## Day 5 : July 10 , 2018
+
+**Today's Progress** : Analysing NLP in swift using CoreML.
+
+**Thoughts** : Just getting started with NLP and Playground. Overviewing with NSLinguisticTagger Class.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/c608fffb4526caf6b8e10659efdadfff03ba35b7)
+
+**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/NLP-Swift](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/NLP-Swift)
