@@ -27,3 +27,9 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/43319c1c657c95f770a1d7c1dc70b6dfd4edda9a)
 
 **Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/iOS](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/ExperienceVSSalary-CorML/iOS)
+
+## Day 4 : July 09 , 2018
+
+**Today's Progress** : Searching for ingerdients of product dataset. No coding day.
+
+**Thoughts** : Still didn't find the what data I need.
