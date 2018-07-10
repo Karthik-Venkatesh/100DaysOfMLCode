@@ -1,5 +1,7 @@
 import Foundation
 
+//https://medium.com/swiftworld/swift-world-whats-new-in-ios-11-natural-language-processing-2a16b7422334
+
 debugPrint("*****************************************")
 debugPrint("*****************************************")
 debugPrint("*****************************************")
