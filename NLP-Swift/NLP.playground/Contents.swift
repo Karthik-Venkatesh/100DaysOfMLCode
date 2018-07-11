@@ -1,6 +1,7 @@
 import Foundation
 
-//https://medium.com/swiftworld/swift-world-whats-new-in-ios-11-natural-language-processing-2a16b7422334
+// References
+// https://medium.com/swiftworld/swift-world-whats-new-in-ios-11-natural-language-processing-2a16b7422334
 
 debugPrint("*****************************************")
 debugPrint("*****************************************")
@@ -41,7 +42,7 @@ tagger = NSLinguisticTagger.init(tagSchemes: [.tokenType, .nameType], options: 0
 tagger.string = string
 options = [.omitPunctuation, .omitWhitespace, .joinNames]
 let tags: [NSLinguisticTag] = [.personalName, .placeName, .organizationName]
-tagger.enumerateTags(in: range, unit: .word, scheme: .nameType, options: options) { tag, tokenRange, stop in
+tagger.enumerateTags(in: range, unit: .word, scheme: .nameType, options: options) { (tag, tokenRange, stop) in
     if let tag = tag, tags.contains(tag) {
         let name = (string as NSString).substring(with: tokenRange)
         print("\(name): \(tag)")
