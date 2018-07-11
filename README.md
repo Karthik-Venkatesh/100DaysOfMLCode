@@ -43,3 +43,13 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/c608fffb4526caf6b8e10659efdadfff03ba35b7)
 
 **Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/NLP-Swift](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/NLP-Swift)
+
+## Day 6 : July 11 , 2018
+
+**Today's Progress** : Analysing NLP and NSLinguisticTagScheme in swift.
+
+**Thoughts** : Got idea about NSLinguisticTagScheme. Analysing NLP session video([Natural Language Processing and your Apps](https://developer.apple.com/videos/play/wwdc2017/208/)) at WWDC 2017
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/b23392a54ddf85d3f61c0645be750c49356d1b72)
+
+**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/NLP-Swift](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/NLP-Swift)
