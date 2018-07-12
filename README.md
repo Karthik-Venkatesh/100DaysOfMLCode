@@ -8,7 +8,7 @@
 
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/64f5a7d7c7e061df4facaa1e2197e2b55b1a1f9a)
 
-**Path** : [100DaysOfMLCode/SimpleLinearRegression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/SimpleLinearRegression)
+**Path** : [100DaysOfMLCode/SimpleLinearRegression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/SimpleLinearRegression)
 
 ## Day 1 : July 07 , 2018
 
@@ -16,7 +16,7 @@
 
 **Thoughts** : Had idea about how to convert linear regression model into CoreML model.
 
-**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/PythonFile](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/ExperienceVSSalary-CorML/PythonFile)
+**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/PythonFile](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/ExperienceVSSalary-CorML/PythonFile)
 
 ## Day 2 : July 08 , 2018
 
@@ -26,7 +26,7 @@
 
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/43319c1c657c95f770a1d7c1dc70b6dfd4edda9a)
 
-**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/iOS](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/ExperienceVSSalary-CorML/iOS)
+**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/iOS](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/ExperienceVSSalary-CorML/iOS)
 
 ## Day 4 : July 09 , 2018
 
@@ -52,4 +52,14 @@
 
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/b23392a54ddf85d3f61c0645be750c49356d1b72)
 
-**Path** : [100DaysOfMLCode/ExperienceVSSalary-CorML/NLP-Swift](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/NLP-Swift)
+**Path** : [100DaysOfMLCode/NLP-Swift](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/NLP-Swift)
+
+## Day 7 : July 12 , 2018
+
+**Today's Progress** : Multiple linear regression.
+
+**Thoughts** : Learned multiple linear regression, LabelEncoder and OneHotEncoder.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/2ad22cebc95f5c2eb8116f06d6e188d97b45fa5d)
+
+**Path** : [100DaysOfMLCode/Multiple_linear_regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Multiple_linear_regression)
