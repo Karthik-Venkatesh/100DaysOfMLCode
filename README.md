@@ -8,7 +8,7 @@
 
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/64f5a7d7c7e061df4facaa1e2197e2b55b1a1f9a)
 
-**Path** : [100DaysOfMLCode/SimpleLinearRegression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/SimpleLinearRegression)
+**Path** : [100DaysOfMLCode/Regression/SimpleLinearRegression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Regression/SimpleLinearRegression)
 
 ## Day 1 : July 07 , 2018
 
@@ -62,4 +62,14 @@
 
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/2ad22cebc95f5c2eb8116f06d6e188d97b45fa5d)
 
-**Path** : [100DaysOfMLCode/Multiple_linear_regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Multiple_linear_regression)
+**Path** : [100DaysOfMLCode/Regression/Multiple_linear_regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Regression/Multiple_linear_regression)
+
+## Day 8 : July 13 , 2018
+
+**Today's Progress** : Polynomial regression.
+
+**Thoughts** : Learned concept of Polynomial regression.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/cb6c1316f2348088d49ffd86fc8d9e4b060d5d9f)
+
+**Path** : [100DaysOfMLCode/Regression/RegressionMultiple_linear_regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Regression/Polynomial%20Regression)
