@@ -82,4 +82,14 @@
 
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/f3ee59d8f6e40e2ca05b1c78dc3060bcb5d198af)
 
-**Path** : [100DaysOfMLCode/Regression/Regression/Support Vector Regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Regression/Support%20Vector%20Regression)
+**Path** : [100DaysOfMLCode/Regression/Support Vector Regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Regression/Support%20Vector%20Regression)
+
+## Day 10 : July 15 , 2018
+
+**Today's Progress** : Decision tree regression.
+
+**Thoughts** : Learned concept of decision tree regression.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/9cee0e584f275f33d23c4845517b242b4b3cc05d)
+
+**Path** : [100DaysOfMLCode/Regression/Decision Tree Regression/](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/Regression/Decision%20Tree%20Regression)
