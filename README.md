@@ -103,3 +103,9 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/17c4143c117634caf0dee28f3b59b6d933e8cf88)
 
 **Path** : [100DaysOfMLCode/Regression/Random Forest Regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Regression/Random%20Forest%20Regression)
+
+## Day 12 : July 17 , 2018
+
+**Today's Progress** : Reviewing the regressions.
+
+**Thoughts** : Reviewing the regression concepts. No coding.
