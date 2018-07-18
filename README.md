@@ -109,3 +109,13 @@
 **Today's Progress** : Reviewing the regressions.
 
 **Thoughts** : Reviewing the regression concepts. No coding.
+
+## Day 13 : July 18 , 2018
+
+**Today's Progress** : Logisitic Regression.
+
+**Thoughts** : Learned concept of Logisitic Regression.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/c310ae52d36bdfb3c9c1021043ee077ac8fe9059)
+
+**Path** : [100DaysOfMLCode/Classification/Logisitic Regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Classification/Logisitic%20Regression)
