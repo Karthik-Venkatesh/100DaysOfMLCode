@@ -119,3 +119,33 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/c310ae52d36bdfb3c9c1021043ee077ac8fe9059)
 
 **Path** : [100DaysOfMLCode/Classification/Logisitic Regression](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Classification/Logisitic%20Regression)
+
+## Day 14 : July 19 , 2018
+
+**Today's Progress** : KNN Classification.
+
+**Thoughts** : Learned concept of KNN Classification.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/2f34297f11ebcf11c7cc2679a60817ba24326a8b)
+
+**Path** : [100DaysOfMLCode/Classification/K-Nearest Neighbors](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Classification/K-Nearest%20Neighbors)
+
+## Day 15 : July 20 , 2018
+
+**Today's Progress** : SVM Classifiction.
+
+**Thoughts** : Learned concept of Support Vector Machine Classifiction.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/f9a0f712a7758837e9d88bb37c24900e67c30ef2)
+
+**Path** : [100DaysOfMLCode/Classification/Support Vector Machine (SVM)](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Classification/Support%20Vector%20Machine%20(SVM))
+
+## Day 16 : July 21 , 2018
+
+**Today's Progress** : Kernel SVM Classifiction.
+
+**Thoughts** : Learned concept of Kernel SVM Classification.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/88cac13515cbec9607a7c7ec72e0b376f17905e1)
+
+**Path** : [100DaysOfMLCode/Classification/Kernel SVM](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Classification/Kernel%20SVM)
