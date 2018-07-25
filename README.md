@@ -149,3 +149,33 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/88cac13515cbec9607a7c7ec72e0b376f17905e1)
 
 **Path** : [100DaysOfMLCode/Classification/Kernel SVM](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/master/Classification/Kernel%20SVM)
+
+## Day 17 : July 22 , 2018
+
+**Today's Progress** : Naive Bayes Classifiction.
+
+**Thoughts** : Learned concept of Naive Bayes Classification.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/26bc47c20700b7913485342088afd7e69333a478)
+
+**Path** : [100DaysOfMLCode/Classification/Naive Bayes](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/Classification/Naive%20Bayes)
+
+## Day 18 : July 23 , 2018
+
+**Today's Progress** : Decision Tree Classifiction.
+
+**Thoughts** : Learned concept of Decision Tree Classification.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/a7e1dd4cb7a6f660d642fdc529ba66f0db268be1)
+
+**Path** : [100DaysOfMLCode/Classification/Decision Tree Classification](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/Classification/Decision%20Tree%20Classification)
+
+## Day 19 : July 24 , 2018
+
+**Today's Progress** : Random Forest Classifiction.
+
+**Thoughts** : Learned concept of Random Forest Classification.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/0743a6cb456aebbdede3d0bbd90627c7b080ab96)
+
+**Path** : [100DaysOfMLCode/Classification/Random Forest Classification](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/Classification/Random%20Forest%20Classification)
