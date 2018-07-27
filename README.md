@@ -179,3 +179,15 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/commit/0743a6cb456aebbdede3d0bbd90627c7b080ab96)
 
 **Path** : [100DaysOfMLCode/Classification/Random Forest Classification](https://github.com/Karthik-Venkatesh/100DaysOfMLCode/tree/develop/Classification/Random%20Forest%20Classification)
+
+## Day 20 : July 25 , 2018
+
+**Today's Progress** : Reviewing the classifiction.
+
+**Thoughts** : Reviewing the classifiction concepts. No coding.
+
+## Day 21 : July 26 , 2018
+
+**Today's Progress** : Jumping into Blockchain.
+
+**Thoughts** : Planned to learn block chain. Starting from the scratch. By some youtube videos understood what is block chain basically.
