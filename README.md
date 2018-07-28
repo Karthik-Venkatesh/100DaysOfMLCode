@@ -191,3 +191,19 @@
 **Today's Progress** : Jumping into Blockchain.
 
 **Thoughts** : Planned to learn block chain. Starting from the scratch. By some youtube videos understood what is block chain basically.
+
+## Day 22 : July 27 , 2018
+
+**Today's Progress** : Understaing how blockchain works.
+
+**Thoughts** : Learned how blockchain works, what is peer to peer connection, what is proof of work and byzentine algoritm.
+
+## Day 23 : July 28 , 2018
+
+**Today's Progress** : Creating a simple block chain.
+
+**Thoughts** : Created simple blockchain using python and SHA256 and accesed using flask. Used sepearate repo for understanding.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Block-Chain-Leaning/commit/67d010714bf590445dff209f2982b33f7f8e9c2e)
+
+**Path** : [Block-Chain-Leaning/Create a Block Chain](https://github.com/Karthik-Venkatesh/Block-Chain-Leaning/tree/master/Create%20a%20Block%20Chain)
