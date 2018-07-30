@@ -207,3 +207,9 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Block-Chain-Leaning/commit/67d010714bf590445dff209f2982b33f7f8e9c2e)
 
 **Path** : [Block-Chain-Leaning/Create a Block Chain](https://github.com/Karthik-Venkatesh/Block-Chain-Leaning/tree/master/Create%20a%20Block%20Chain)
+
+## Day 22 : July 27 , 2018
+
+**Today's Progress** : Reviewing the BlockChain.
+
+**Thoughts** : Reviewing the BlockChain.
