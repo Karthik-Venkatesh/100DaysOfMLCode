@@ -208,7 +208,7 @@
 
 **Path** : [Block-Chain-Leaning/Create a Block Chain](https://github.com/Karthik-Venkatesh/Block-Chain-Leaning/tree/master/Create%20a%20Block%20Chain)
 
-## Day 22 : July 27 , 2018
+## Day 24 : July 29 , 2018
 
 **Today's Progress** : Reviewing the BlockChain.
 
