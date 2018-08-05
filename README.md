@@ -213,3 +213,39 @@
 **Today's Progress** : Reviewing the BlockChain.
 
 **Thoughts** : Reviewing the BlockChain.
+
+## Day 25 : July 30 , 2018
+
+**Today's Progress** : Cryptocurrency Intution.
+
+**Thoughts** : Anaylysing Cryptocurrency.
+
+## Day 26 : July 31 , 2018
+
+**Today's Progress** : Cryptocurrency smart contracts.
+
+**Thoughts** : Gained knowledge about cryptocurrency smart contracts.
+
+## Day 27 : August 1 , 2018
+
+**Today's Progress** : Anonymous detector - POC.
+
+**Thoughts** : Anonymous detector is seperating anounyms person and authoised person using real time object detection.
+
+## Day 28 : August 2 , 2018
+
+**Today's Progress** : Anonymous detector - POC. Requiremet analysis.
+
+**Thoughts** : Requirement analysis for anonymous detector.
+
+## Day 29 : August 3 , 2018
+
+**Today's Progress** : Anonymous detector - POC. Requiremet analysis.
+
+**Thoughts** : Requirement analysis for anonymous detector And how it can done.
+
+## Day 30 : August 4 , 2018
+
+**Today's Progress** : Styding what is yolo real time object detection.
+
+**Thoughts** : Gained idea about realtime object detection.
