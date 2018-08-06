@@ -249,3 +249,15 @@
 **Today's Progress** : Styding what is yolo real time object detection.
 
 **Thoughts** : Gained idea about realtime object detection.
+
+## Day 31 : August 5 , 2018
+
+**Today's Progress** : Styding the articles and papers relaed to time object detection.
+
+**References** : [Papers](https://github.com/Karthik-Venkatesh/Anonymous-Detector/tree/master/References)
+
+## Day 32 : August 6 , 2018
+
+**Today's Progress** : Styding the articles and papers relaed to time object detection. Continue of day 31.
+
+**References** : [Papers](https://github.com/Karthik-Venkatesh/Anonymous-Detector/tree/master/References)
