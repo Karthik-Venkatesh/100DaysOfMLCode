@@ -261,3 +261,9 @@
 **Today's Progress** : Styding the articles and papers relaed to time object detection. Continue of day 31.
 
 **References** : [Papers](https://github.com/Karthik-Venkatesh/Anonymous-Detector/tree/master/References)
+
+## Day 33 : August 7 , 2018
+
+**Today's Progress** : Practising based on you tube tutorial(The link is given below). Got error in protobuf and tensorflow. Trying to fix it.
+
+**Youtube Tutorial Link** : [Link](https://www.youtube.com/watch?v=COlbP62-B-U&t=65s)
