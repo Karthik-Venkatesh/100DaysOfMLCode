@@ -267,3 +267,15 @@
 **Today's Progress** : Practising based on you tube tutorial(The link is given below). Got error in protobuf and tensorflow. Trying to fix it.
 
 **Youtube Tutorial Link** : [Link](https://www.youtube.com/watch?v=COlbP62-B-U&t=65s)
+
+## Day 34 : August 8 , 2018
+
+**Today's Progress** : Practising based on you tube tutorial(The link is given below). Resolved error in package installations. Real time obeject detection implemeted using TensorFlow and OpenCV. Code obtimized.
+
+**Thoughts** : Obtained idea about **OpenCV** and **ssd_mobilenet_v1_coco_2017_11_17** model.
+
+**Youtube Tutorial Link** : [Link](https://www.youtube.com/watch?v=COlbP62-B-U&t=65s)
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Anonymous-Detector/commit/dfda27a641910ae8b8e5edf23bc49da3485a3370)
+
+**Path** : [Anonymous-Detector/Practices And Tests/Real Time Object Detection - Tensorflow/](https://github.com/Karthik-Venkatesh/Anonymous-Detector/tree/master/Practices%20And%20Tests/Real%20Time%20Object%20Detection%20-%20Tensorflow)
