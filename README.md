@@ -279,3 +279,11 @@
 **Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Anonymous-Detector/commit/dfda27a641910ae8b8e5edf23bc49da3485a3370)
 
 **Path** : [Anonymous-Detector/Practices And Tests/Real Time Object Detection - Tensorflow/](https://github.com/Karthik-Venkatesh/Anonymous-Detector/tree/master/Practices%20And%20Tests/Real%20Time%20Object%20Detection%20-%20Tensorflow)
+
+## Day 35 : August 9 , 2018
+
+**Today's Progress** : Analyzing custom object detector creation.
+
+## Day 36 : August 10 , 2018
+
+**Today's Progress** : Analyzing custom object detector creation. Continue of day 35.
