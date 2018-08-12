@@ -287,3 +287,13 @@
 ## Day 36 : August 10 , 2018
 
 **Today's Progress** : Analyzing custom object detector creation. Continue of day 35.
+
+## Day 37 : August 11 , 2018
+
+**Today's Progress** : Analyzed term about the image labeling.
+
+## Day 38 : August 12 , 2018
+
+**Today's Progress** : Analyzing proper way of image labeling with polygon and bounding boxes.
+
+
