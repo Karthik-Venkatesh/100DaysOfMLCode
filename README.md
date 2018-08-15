@@ -296,4 +296,14 @@
 
 **Today's Progress** : Analyzing proper way of image labeling with polygon and bounding boxes.
 
+## Day 39 : August 13 , 2018
 
+**Today's Progress** : Searching anation tools for mac.
+
+## Day 40 : August 14 , 2018
+
+**Today's Progress** : Took a calculator as a practise object detection. Trying to annotate calculator images.
+
+## Day 41 : August 15 , 2018
+
+**Today's Progress** : Calculator images are annotated and converted to test and train csv from annotated xml.
