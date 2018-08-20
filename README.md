@@ -307,3 +307,33 @@
 ## Day 41 : August 15 , 2018
 
 **Today's Progress** : Calculator images are annotated and converted to test and train csv from annotated xml.
+
+## Day 42 : August 16 , 2018
+
+**Today's Progress** : Tensorflow records created using test and train csv files of calculator and moved to data folder. Creating the .config and labelmap file. 
+
+## Day 43 : August 17 , 2018
+
+**Today's Progress** : Trainning model using train and test records and images files. Some of my logic wrong running for whole day.
+
+## Day 44 : August 18 , 2018
+
+**Today's Progress** : Updated the commds and Trainning model for calulator identification. The job was done and tested using the test images.
+
+## Day 45 : August 19 , 2018
+
+**Today's Progress** : Practising the Tensorflow object detection - Custom object detection. Trying to detect batman apperance. Custom model is trained. Tested with test images. And tested with video also using OpenCV.
+
+**Thoughts** : Gained knowledge in Tensorflow custom object detection for calculator. Trying to reimplement it.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Tensorflow-Object-Detection---Custom-Object-Detctor/commit/550a64e1e128143fa3aa145d4a684b6ecb88e9b1)
+
+**Path To Jupyter Notebook File** : [Tensorflow-Object-Detection---Custom-Object-Detctor/find_batman.ipynb](https://github.com/Karthik-Venkatesh/Tensorflow-Object-Detection---Custom-Object-Detctor/blob/master/find_batman.ipynb)
+
+**Path To OpenCV Tested Python File** : [Tensorflow-Object-Detection---Custom-Object-Detctor/find_batman_open_cv.py](https://github.com/Karthik-Venkatesh/Tensorflow-Object-Detection---Custom-Object-Detctor/blob/master/find_batman_open_cv.py)
+
+## Day 46 : August 20 , 2018
+
+**Today's Progress** : Preparing documentation using readme.md file.
+
+**Path** : [Tensorflow-Object-Detection---Custom-Object-Detctor/readme.md](https://github.com/Karthik-Venkatesh/Tensorflow-Object-Detection---Custom-Object-Detctor/blob/master/readme.md)
