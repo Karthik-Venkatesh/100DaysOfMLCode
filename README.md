@@ -337,3 +337,24 @@
 **Today's Progress** : Preparing documentation using readme.md file for [Tensorflow-Object-Detection---Custom-Object-Detctor](https://github.com/Karthik-Venkatesh/Tensorflow-Object-Detection---Custom-Object-Detctor) repo.
 
 **Path** : [Tensorflow-Object-Detection---Custom-Object-Detctor/readme.md](https://github.com/Karthik-Venkatesh/Tensorflow-Object-Detection---Custom-Object-Detctor/blob/master/readme.md)
+
+## Day 47 : August 21 , 2018
+
+**Today's Progress** : Block Chain - Study Progress.
+
+**Study Topics** :
+
+1. What is Bitcoin
+2. Bitcoins Monetary Policy
+3. Understanding Mining Difficulty
+
+## Day 48 : August 22 , 2018
+
+**Today's Progress** : Block Chain - Study Progress.
+
+**Study Topics** :
+
+1. Virtual tour of a Bitcoin Mine
+2. Mining Pools
+3. Nonce Range
+
