@@ -358,3 +358,44 @@
 2. Mining Pools
 3. Nonce Range
 
+## Day 49 : August 23 , 2018
+
+**Today's Progress** : Block Chain - Study Progress.
+
+**Study Topics** :
+
+1. How Miners Pick Transactions (Part 1)
+2. CPUs vs GPUs vs ASICs
+3. How do Mempools work
+
+## Day 50 : August 24 , 2018
+
+**Today's Progress** : Block Chain - Study Progress.
+
+**Study Topics** :
+
+1. Orphaned Blocks
+2. The 51 Attack
+3. Extra Bits to Target conversion
+
+## Day 51 : August 25 , 2018
+
+**Today's Progress** : Block Chain - Study Progress.
+
+**Study Topics** :
+
+1. Transactions and UTXOs
+2. Where do transaction fees come from
+3. How wallets work
+4. Signatures Private Public Keys
+
+## Day 52 : August 26 , 2018
+
+**Today's Progress** : Block Chain - Study Progress.
+
+**Study Topics** :
+
+1. Signatures Keys 
+2. What is Segregated Witness (SegWit)
+3. Public Key vs Bitcoin Address
+4. Hierarchically Deterministic (HD) Wallets
