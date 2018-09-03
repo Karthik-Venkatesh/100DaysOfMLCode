@@ -467,4 +467,4 @@
 **Study Topics** :
 
 1. Blockchain Startups White Papers
-2.Blockchain and Web 3.0
+2. Blockchain and Web 3.0
