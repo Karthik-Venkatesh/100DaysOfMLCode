@@ -340,7 +340,7 @@
 
 ## Day 47 : August 21 , 2018
 
-**Today's Progress** : Block Chain - Study Progress.
+**Today's Progress** : Block Chain - Study Progress - Creating the cryptocurrency.
 
 **Study Topics** :
 
@@ -350,7 +350,7 @@
 
 ## Day 48 : August 22 , 2018
 
-**Today's Progress** : Block Chain - Study Progress.
+**Today's Progress** : Block Chain - Study Progress - Creating the cryptocurrency.
 
 **Study Topics** :
 
@@ -360,7 +360,7 @@
 
 ## Day 49 : August 23 , 2018
 
-**Today's Progress** : Block Chain - Study Progress.
+**Today's Progress** : Block Chain - Study Progress - Creating the cryptocurrency.
 
 **Study Topics** :
 
@@ -370,7 +370,7 @@
 
 ## Day 50 : August 24 , 2018
 
-**Today's Progress** : Block Chain - Study Progress.
+**Today's Progress** : Block Chain - Study Progress - Creating the cryptocurrency.
 
 **Study Topics** :
 
@@ -380,7 +380,7 @@
 
 ## Day 51 : August 25 , 2018
 
-**Today's Progress** : Block Chain - Study Progress.
+**Today's Progress** : Block Chain - Study Progress - Creating the cryptocurrency.
 
 **Study Topics** :
 
@@ -391,7 +391,7 @@
 
 ## Day 52 : August 26 , 2018
 
-**Today's Progress** : Block Chain - Study Progress.
+**Today's Progress** : Block Chain - Study Progress - Creating the cryptocurrency.
 
 **Study Topics** :
 
@@ -399,3 +399,72 @@
 2. What is Segregated Witness (SegWit)
 3. Public Key vs Bitcoin Address
 4. Hierarchically Deterministic (HD) Wallets
+
+## Day 53 : August 27 , 2018
+
+**Today's Progress** : Creating the cryptocurrency.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Block-Chain/commit/139e234d9475462d42a6913aac698c6e2c2f1ec3)
+
+**Path** : [Block-Chain/Create a Cryptocurrency/](https://github.com/Karthik-Venkatesh/Block-Chain/tree/master/Create%20a%20Cryptocurrency)
+
+## Day 54 : August 28 , 2018
+
+**Today's Progress** : Creating the cryptocurrency - Testing with multiple nodes.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Block-Chain/commit/5744fad7c27c4d06c5dc0b0f7d0da3373f66509b)
+
+**Path** : [Block-Chain/Create a Cryptocurrency/](https://github.com/Karthik-Venkatesh/Block-Chain/tree/master/Create%20a%20Cryptocurrency)
+
+## Day 55 : August 29 , 2018
+
+**Today's Progress** : Block Chain - Study Progress - Smart contracts.
+
+**Study Topics** :
+
+1. What is Ethereum
+2. What is a Smart Contract
+
+## Day 56 : August 30 , 2018
+
+**Today's Progress** : Block Chain - Study Progress - Smart contracts.
+
+**Study Topics** :
+
+1. Decentralized Applications (Dapps)
+2. Ethereum Virtual Machine Gas
+
+## Day 57 : August 31 , 2018
+
+**Today's Progress** : Block Chain - Study Progress - Smart contracts.
+
+**Study Topics** :
+
+1. Decentralized Autonomous Organizations (DAOs)
+2. The DAO Attack
+
+## Day 58 : September 01 , 2018
+
+**Today's Progress** : Block Chain - Study Progress - Smart contracts.
+
+**Study Topics** :
+
+1. Soft and Hard Forks
+
+## Day 59 : September 02 , 2018
+
+**Today's Progress** : Block Chain - Study Progress - Smart contracts.
+
+**Study Topics** :
+
+1. Initial Coin Offerings (ICOs)
+2. ICO Case Study
+
+## Day 60 : September 03 , 2018
+
+**Today's Progress** : Block Chain - Study Progress - Smart contracts.
+
+**Study Topics** :
+
+1. Blockchain Startups White Papers
+2.Blockchain and Web 3.0
