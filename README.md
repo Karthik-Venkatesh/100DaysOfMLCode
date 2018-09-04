@@ -468,3 +468,12 @@
 
 1. Blockchain Startups White Papers
 2. Blockchain and Web 3.0
+
+## Day 61 : September 04 , 2018
+
+**Today's Progress** : Creating Smart Contract - Creating smart contract with solidity and tested with ethereum wallet and ganache.
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Block-Chain/commit/d423225f73d4375a14fdda1f4e36f4251c5a4e54)
+
+**Path** : [Block-Chain/Create a Smart Contract/](https://github.com/Karthik-Venkatesh/Block-Chain/tree/master/Create%20a%20Smart%20Contract)
+
