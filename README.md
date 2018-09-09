@@ -477,3 +477,38 @@
 
 **Path** : [Block-Chain/Create a Smart Contract/](https://github.com/Karthik-Venkatesh/Block-Chain/tree/master/Create%20a%20Smart%20Contract)
 
+## Day 62 : September 05 , 2018
+
+**Today's Progress** : Deep Learning - ANN
+
+**Study Topics** :
+
+1. The Neuron
+2. The Activation Functions
+3. How do Neural Networks work
+
+## Day 63 : September 06 , 2018
+
+**Today's Progress** : Deep Learning - ANN
+
+**Study Topics** :
+
+1. How do Neural Networks learn
+2. Gradient Descent
+
+## Day 64 : September 07 , 2018
+
+**Today's Progress** : Deep Learning - ANN
+
+**Study Topics** :
+
+1. Stochastic Gradient Descent
+2. Backpropagation
+
+## Day 61 : September 04 , 2018
+
+**Today's Progress** : Deep Learning - ANN - Building an ANN
+
+**Link of Work:**  [Commit](https://github.com/Karthik-Venkatesh/Deep-Learning/commit/ac8ae54e9b8c25eaf9bda777fbd9f0dcc515925b)
+
+**Path** : [Deep-Learning/ANN/ANN.ipynb](https://github.com/Karthik-Venkatesh/Deep-Learning/blob/master/ANN/ANN.ipynb)
